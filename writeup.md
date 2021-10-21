@@ -47,5 +47,5 @@ understood each slide, they understood and loved the tooltips, the colors worked
 upon but these people all know how I think and speak, so the whole thing was very clear to them.
 
 #### Resources
--[Coloring tooltip text based on handedness](https://sarahlovesdata.co.uk/2018/01/11/how-to-dynamically-colour-tooltip-text-in-tableau/)
--[Creating bins](https://data-flair.training/blogs/tableau-bins/#:~:text=Follow%20the%20steps%20given%20below%20to%20create%20bins,Data%20pane%20in%20the%20list%20of%20fields.%20)
+- [Coloring tooltip text based on handedness](https://sarahlovesdata.co.uk/2018/01/11/how-to-dynamically-colour-tooltip-text-in-tableau/)
+- [Creating bins](https://data-flair.training/blogs/tableau-bins/#:~:text=Follow%20the%20steps%20given%20below%20to%20create%20bins,Data%20pane%20in%20the%20list%20of%20fields.%20)
